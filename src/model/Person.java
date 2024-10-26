@@ -1,11 +1,12 @@
-package HW_OOP_01_SOA;
+package model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-// Класс, представляющий человека
+public class Person implements Serializable {
 
-class Person {
+    private static final long serialVersionUID = 1L;
     private String name;
     private int birthYear;
     private Person mother;
@@ -26,10 +27,7 @@ class Person {
         return birthYear;
     }
 
-    public void setMother(Person mother) {
-        this.mother = mother;
-    }
-
+    public void setMother(Person mother) { this.mother = mother; }
 
     public void setFather(Person father) {
         this.father = father;
@@ -50,6 +48,4 @@ class Person {
     public Person getFather() {
         return father;
     }
-
 }
-

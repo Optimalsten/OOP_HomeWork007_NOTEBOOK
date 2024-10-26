@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e90c626-1f69-441c-9dba-f0c3b1f00b10" name="Changes" comment="first variant Homework 01 OOP 22102024">
-      <change afterPath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FamilyTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FileOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FileOperationsImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_OOP_02_SOA/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_OOP_02_SOA/Person.java" afterDir="false" />
+    <list default="true" id="7e90c626-1f69-441c-9dba-f0c3b1f00b10" name="Changes" comment="second variant after HW02">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/FamilyTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/FileOperationsImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_soa_less01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hw_oop_soa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FamilyTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_OOP_01_SOA/FamilyTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_OOP_01_SOA/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_OOP_01_SOA/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_01_SOA/FamilyTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_01_SOA/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_01_SOA/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FamilyTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FileOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/FileOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FileOperationsImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,29 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/OOP_SOA/hw_soa_less01/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/OOP_SOA/hw_oop_soa",
+    "onboarding.tips.debug.path": "C:/OOP_SOA/hw_soa_less01/src/Main.java"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="hw_oop_soa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="hw_oop_soa" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OOP_SOA\hw_soa_less01\src\HW_OOP_01_SOA" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,12 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729629905921</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second variant after HW02">
+      <option name="closed" value="true" />
+      <created>1729882111399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729882111399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first variant Homework 01 OOP 22102024" />
-    <option name="LAST_COMMIT_MESSAGE" value="first variant Homework 01 OOP 22102024" />
+    <MESSAGE value="second variant after HW02" />
+    <option name="LAST_COMMIT_MESSAGE" value="second variant after HW02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
