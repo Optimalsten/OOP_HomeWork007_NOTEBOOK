@@ -4,20 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e90c626-1f69-441c-9dba-f0c3b1f00b10" name="Changes" comment="second variant after HW02">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/FamilyTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/FileOperationsImpl.java" afterDir="false" />
+    <list default="true" id="7e90c626-1f69-441c-9dba-f0c3b1f00b10" name="Changes" comment="Seventh entry is a variant of homework No. 7 - HW007">
+      <changelist_data name="https://github.com/Optimalsten/OOP_HomeWork007_NOTEBOOK.git" email="" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/presenter/CommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/presenter/TreePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/service/FileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/service/FileOperationsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/view/ConsoleTreeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/view/InputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/view/MessageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/view/PersonView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_OOP_06_SOA/view/TreeView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/familyTree.dat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW_OOP_01_SOA/FamilyTree.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW_OOP_01_SOA/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW_OOP_01_SOA/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FamilyTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FileOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/FileOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FileOperations.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/FileOperationsImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_OOP_02_SOA/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/FamilyTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/FileOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/FileOperationsImpl.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +46,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Optimalsten &lt;soa@prg.spb.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -47,16 +68,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/OOP_SOA/hw_oop_soa",
-    "onboarding.tips.debug.path": "C:/OOP_SOA/hw_soa_less01/src/Main.java"
+    "last_opened_file_path": "C:/OOP_SOA/hw_oop_soa/src/HW_OOP_06_SOA",
+    "onboarding.tips.debug.path": "C:/OOP_SOA/hw_soa_less01/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OOP_SOA\hw_oop_soa\src\HW_OOP_06_SOA" />
+      <recent name="C:\OOP_SOA\hw_oop_soa\src\HW_OOP_05_SOA" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OOP_SOA\hw_soa_less01\src\HW_OOP_01_SOA" />
     </key>
@@ -86,13 +119,47 @@
       <option name="project" value="LOCAL" />
       <updated>1729882111399</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third variant after HW03">
+      <option name="closed" value="true" />
+      <created>1729970085291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729970085291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third variant after HW03">
+      <option name="closed" value="true" />
+      <created>1729970120520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729970120520</updated>
+    </task>
+    <task id="LOCAL-00005" summary="third variant after HW03">
+      <option name="closed" value="true" />
+      <created>1729970178006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729970178006</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Seventh entry is a variant of homework No. 7 - HW007">
+      <option name="closed" value="true" />
+      <created>1730729794834</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730729794834</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first variant Homework 01 OOP 22102024" />
     <MESSAGE value="second variant after HW02" />
-    <option name="LAST_COMMIT_MESSAGE" value="second variant after HW02" />
+    <MESSAGE value="third variant after HW03" />
+    <MESSAGE value="Seventh entry is a variant of homework No. 7 - HW007" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seventh entry is a variant of homework No. 7 - HW007" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
